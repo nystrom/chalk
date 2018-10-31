@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["DelayedLiteral",""],["Literal","Either `A` or `~A`, where `A` is a `Env |- Goal`."]],"mod":[["context",""],["fallible",""],["forest",""],["hh",""]],"struct":[["ExClause","The paper describes these as `A :- D | G`."],["SimplifiedAnswer",""],["TableIndex",""]]});

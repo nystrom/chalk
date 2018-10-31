@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["canonicalize",""],["instantiate",""],["ucanonicalize",""],["unify",""],["var",""]],"struct":[["InferenceSnapshot",""],["InferenceTable",""]],"trait":[["ParameterEnaVariableExt",""]]});
